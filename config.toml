@@ -1,4 +1,4 @@
-baseURL = "https://your.site.com/"
+baseURL = "https://sharafatkarim.github.io/hugo-LoveIt-template/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
